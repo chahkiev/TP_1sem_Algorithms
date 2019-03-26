@@ -1,0 +1,3 @@
+D:/Desktop/sravnenie/cmake-build-debug/CMakeFiles/sravnenie.dir
+D:/Desktop/sravnenie/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop/sravnenie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
