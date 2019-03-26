@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Desktop/Alg_5_3/main.cpp
+iostream
+-
+assert.h
+-
+stdio.h
+-
+malloc.h
+-
+stdlib.h
+-
+
