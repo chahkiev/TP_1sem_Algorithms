@@ -6,15 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/Desktop/Alg_5_3/main.cpp
+D:/Desktop/TP_1sem_Algorithms/Alg_4_2/main.cpp
 iostream
 -
-assert.h
--
 stdio.h
--
-malloc.h
--
-stdlib.h
 -
 

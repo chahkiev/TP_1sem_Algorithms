@@ -1,4 +1,4 @@
-# Install script for directory: D:/Desktop/Alg_5_3
+# Install script for directory: D:/Desktop/TP_1sem_Algorithms/Alg_5_3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Desktop/Alg_5_3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Desktop/TP_1sem_Algorithms/Alg_5_3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
