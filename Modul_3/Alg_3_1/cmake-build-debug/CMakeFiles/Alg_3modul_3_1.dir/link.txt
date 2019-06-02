@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Alg_3modul_3_1.dir/main.cpp.o  -o Alg_3modul_3_1 

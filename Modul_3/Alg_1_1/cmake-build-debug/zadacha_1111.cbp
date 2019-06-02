@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="zadacha_1111"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/maga/zadacha_1111/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/maga/zadacha_1111/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadacha_1111">
+				<Option output="/home/maga/zadacha_1111/cmake-build-debug/zadacha_1111" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/maga/zadacha_1111/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadacha_1111"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadacha_1111/fast">
+				<Option output="/home/maga/zadacha_1111/cmake-build-debug/zadacha_1111" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/maga/zadacha_1111/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadacha_1111/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/maga/zadacha_1111/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/maga/zadacha_1111/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/maga/zadacha_1111/CArcGraph.cpp">
+			<Option target="zadacha_1111"/>
+		</Unit>
+		<Unit filename="/home/maga/zadacha_1111/CArcGraph.h">
+			<Option target="zadacha_1111"/>
+		</Unit>
+		<Unit filename="/home/maga/zadacha_1111/CListGraph.cpp">
+			<Option target="zadacha_1111"/>
+		</Unit>
+		<Unit filename="/home/maga/zadacha_1111/CListGraph.h">
+			<Option target="zadacha_1111"/>
+		</Unit>
+		<Unit filename="/home/maga/zadacha_1111/CMatrixGraph.cpp">
+			<Option target="zadacha_1111"/>
+		</Unit>
+		<Unit filename="/home/maga/zadacha_1111/CMatrixGraph.h">
+			<Option target="zadacha_1111"/>
+		</Unit>
+		<Unit filename="/home/maga/zadacha_1111/CSetGraph.cpp">
+			<Option target="zadacha_1111"/>
+		</Unit>
+		<Unit filename="/home/maga/zadacha_1111/CSetGraph.h">
+			<Option target="zadacha_1111"/>
+		</Unit>
+		<Unit filename="/home/maga/zadacha_1111/IGraph.h">
+			<Option target="zadacha_1111"/>
+		</Unit>
+		<Unit filename="/home/maga/zadacha_1111/main.cpp">
+			<Option target="zadacha_1111"/>
+		</Unit>
+		<Unit filename="/home/maga/zadacha_1111/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

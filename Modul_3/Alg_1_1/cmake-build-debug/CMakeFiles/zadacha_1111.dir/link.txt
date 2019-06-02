@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/zadacha_1111.dir/main.cpp.o CMakeFiles/zadacha_1111.dir/CArcGraph.cpp.o CMakeFiles/zadacha_1111.dir/CListGraph.cpp.o CMakeFiles/zadacha_1111.dir/CMatrixGraph.cpp.o CMakeFiles/zadacha_1111.dir/CSetGraph.cpp.o  -o zadacha_1111 

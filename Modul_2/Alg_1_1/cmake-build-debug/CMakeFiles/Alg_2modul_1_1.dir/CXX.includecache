@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maga/Alg_2modul_1_1/main.cpp
+iostream
+-
+string
+-
+string.h
+-
+strings.h
+-
+vector
+-
+

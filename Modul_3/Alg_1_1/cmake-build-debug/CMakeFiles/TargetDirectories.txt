@@ -1,0 +1,3 @@
+/home/maga/zadacha_1111/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/maga/zadacha_1111/cmake-build-debug/CMakeFiles/zadacha_1111.dir
+/home/maga/zadacha_1111/cmake-build-debug/CMakeFiles/edit_cache.dir
